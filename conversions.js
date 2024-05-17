@@ -1,0 +1,10 @@
+let a=2;
+let b=string(a);
+let c=boolean(a);
+let d=3.14;
+let e=abc;
+let g=number(d);
+let f=number(e);
+console.log(typeof(b));
+console.log(c);
+console.log(f);
